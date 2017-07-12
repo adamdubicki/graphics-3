@@ -3,3 +3,7 @@
 ## Lab Exercises and Code
 
 Please see the wiki [here](https://github.com/drebain/icg/wiki/Lab-0:-Introduction-to-Cpp) for lab exercise descriptions.
+
+## A3
+
+Procedurally creates terrain with perlin noise.
